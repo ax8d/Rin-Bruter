@@ -76,7 +76,7 @@ The script expects a JSON response similar to:
 }
 ```
 
-A successful response causes the scan to terminate immediately and display the result.
+A successful response causes the scan to terminate immediately and display the result, this might be useful if you're doing CTF.
 
 ---
 
